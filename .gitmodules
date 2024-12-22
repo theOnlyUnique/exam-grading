@@ -1,3 +1,6 @@
 [submodule "exams"]
 	path = exams
 	url = https://github.com/theOnlyUnique/GitFortune
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/rust-lang/rustlings.git
